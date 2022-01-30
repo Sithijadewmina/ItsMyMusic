@@ -23,9 +23,9 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        name : 'ගුත්තිල වෙන නද Rap',
+        artist : 'Unknown Artist',
+        music : 'music/audio-1746346543.mp3'
     },
     {
         img : 'images/stay.png',
