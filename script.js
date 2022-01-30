@@ -22,7 +22,7 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/Guththilarap.png',
+        img : 'images/495284-preview_2_orig.png',
         name : 'ගුත්තිල වෙන නද Rap',
         artist : 'Unknown Artist',
         music : 'music/audio-1746346543.mp3'
